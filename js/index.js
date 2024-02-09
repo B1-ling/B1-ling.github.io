@@ -9,7 +9,7 @@ layui.use('element', function () {
         layer.close(index)
     };
     //欢迎信息
-    layer.msg('hello,你好，欢迎来到CCW反挂扫黑协会官网')
+    layer.msg('欢迎访问 B-Ling 官网')
     //一些事件触发
 });
 
