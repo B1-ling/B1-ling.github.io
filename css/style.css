@@ -196,6 +196,7 @@ section p {
     -moz-transition: all 0.8s;
 	-webkit-transition: all 0.8s;
     transition: all 0.8s;
+    border-radius: 10px;
 }
 
 .member-information:hover {
