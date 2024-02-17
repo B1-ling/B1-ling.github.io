@@ -185,7 +185,12 @@ section p {
     border-radius: 10px;
 }
 
-
+.member-container:hover {
+    -moz-transform: translate(0, -15px);
+	-webkit-transform: translate(0, -15px);
+	transform: translate(0, -15px);
+    opacity:1;
+}
 
 .member-container img {
     border-radius: 2px;
@@ -205,7 +210,12 @@ section p {
     border-radius: 10px;
 }
 
-
+.member-information:hover {
+    -moz-transform: translate(0, -15px);
+	-webkit-transform: translate(0, -15px);
+	transform: translate(0, -15px);
+    opacity:1;
+}
 
 .member-information h4 {
     font-size: 30px;
