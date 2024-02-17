@@ -179,6 +179,10 @@ section p {
 .member-container {
     position: relative;
     margin: 10px 0;
+    -moz-transition: all 0.8s;
+	-webkit-transition: all 0.8s;
+    transition: all 0.8s;
+    border-radius: 10px;
 }
 
 .member-container img {
