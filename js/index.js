@@ -9,7 +9,7 @@ layui.use('element', function () {
         layer.close(index)
     };
     //欢迎信息
-    layer.msg(' Loading……')
+    layer.msg(' Welcome.')
     //一些事件触发
 });
 
