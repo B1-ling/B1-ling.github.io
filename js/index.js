@@ -9,7 +9,7 @@ layui.use('element', function () {
         layer.close(index)
     };
     //欢迎信息
-    layer.msg('欢迎访问 B-Ling 官网')
+    layer.msg(' Loading……')
     //一些事件触发
 });
 
