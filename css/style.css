@@ -204,7 +204,7 @@ section p {
     background: rgb(1,1,1);
     opacity:0.8;
     padding: 10px 0px 0 10px;
-    width:90%;
+    width:100%;
     -moz-transition: all 0.8s;
 	-webkit-transition: all 0.8s;
     transition: all 0.8s;
