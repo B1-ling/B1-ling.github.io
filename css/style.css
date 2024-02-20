@@ -183,6 +183,7 @@ section p {
 	-webkit-transition: all 0.8s;
     transition: all 0.8s;
     border-radius: 10px;
+    display: inline-block;
 }
 
 .member-container:hover {
